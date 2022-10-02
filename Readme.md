@@ -17,6 +17,8 @@
 
 ![small-mobile-screen](/smaller_mobile_screen.png)
 
+## For larger mobile screens
+
 ![large-mobile-screen](/larger_screen_mobile.png)
 
 ## Built With
@@ -84,5 +86,5 @@ Took me almost `5` hours to build this from scratch. Majority of the time was sp
 
 <!-- Project screenshot -->
 
-[project-url]:
-[source-code]:
+[project-url]: https://businesssolutionprovider.netlify.app/
+[source-code]: https://github.com/nkumar007/12.Business_solution_langingPage
